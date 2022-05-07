@@ -1,0 +1,96 @@
+html{
+    margin: 0;
+    border: 0;
+    padding: 0; 
+}
+body{
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+#contenedor {
+    width: 100%;
+    height: 360px;
+    margin: 0;
+    border: 0;
+    padding: 0;
+    position:absolute; z-index:2;
+}
+img{
+    width: 100%;
+    height: 421px;
+    margin: 0;
+    border: 0;
+    padding: 0; 
+    position:relative; z-index:1;
+}
+#prueba {
+    width: 100%;
+    height: 100px;
+    background-color: chocolate;
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+p{
+    font-size: xx-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    margin-right: 50px;
+    padding: 0;
+    color: white;
+    float: right;
+}
+
+#footer{
+    width: 100%;
+    height: 100px;
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+
+#activo{
+    width: 32.5%;
+    height: 50px;
+    margin: 0;
+    border: 2px solid black;
+    padding: 0;
+    float: left;
+    align-content: space-around;
+    background-color: chocolate;
+    
+}
+
+#activo1{
+    width: 32.5%;
+    height: 50px;
+    margin: 0;
+    border: 2px solid black;
+    padding: 0;
+    float: left;
+    align-content: space-around;
+    background-color: chocolate;
+}
+
+#activo2{
+    width: 32.5%;
+    height: 50px;
+    margin: 0;
+    border: 2px solid black;
+    padding: 0;
+    float: left;
+    align-content: space-around;
+    background-color: chocolate;
+}
+
+#logo{
+    padding: 0;
+    border: 0;
+    margin: 0;
+    margin-top: 0px;
+    margin-right: 50px;
+    width: 100px;
+    height: auto;
+    float: right;
+}
